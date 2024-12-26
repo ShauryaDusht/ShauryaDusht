@@ -6,11 +6,11 @@
 ## 📚 About Me
 I am a passionate developer with experience in **Django**, **Flask**, **Web Automation** ,and **Machine Learning**. I love building projects that solve real-world problems, and I am also a competitive programmer. 
 - Codeforces: [shauryadusht](https://codeforces.com/profile/shauryadusht)
-
 - Specialize in **Software Development** 💻, **Data Science** 📊, and **Automation** 🤖.
 - Expertise in **Python** 🐍, **Django** 🌐, **Flask** 🔥, and machine learning frameworks like **scikit-learn** 📚 and **PyTorch** 🔥.
 - Passionate about building **scalable solutions** 📈.
 - Currently exploring **Docker** 🐋 and **CI/CD** 🔄 to enhance development workflows.
+<img src="https://komarev.com/ghpvc/?username=ShauryaDusht&style=flat-square&color=blue" alt="Profile Views" />
 
 
 ---
