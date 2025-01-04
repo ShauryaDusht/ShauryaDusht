@@ -18,7 +18,10 @@ I am a passionate developer with experience in **Django**, **Flask**, **Web Auto
 ## 🚀 Recent Projects
 
 ### [CodeTogether: Collaborative Coding Platform](https://github.com/ShauryaDusht/CodeTogether)  
-- A real-time collaborative Python code editor built with Django, Django Channels, and WebSockets.  
+- A real-time collaborative Python code editor with dedicated coding rooms, built-in chat system, and live code execution capabilities, powered by Django, Django Channels, and WebSockets. 
+
+### [MeetInsights: AI-Powered GoogleMeet Assistant](https://github.com/ShauryaDusht/MeetInsights)
+- A Selenium-based automated assistant that attends Google Meet sessions, captures time-stamped captions, and generates AI-enhanced meeting insights using OpenAI/Gemini for comprehensive meeting documentation.
 
 ### [Animal Classification: Image Recognition System](https://github.com/ShauryaDusht/animal-classification-flask-app)  
 - A Flask-based image recognition system for classifying animals using a trained model.  
