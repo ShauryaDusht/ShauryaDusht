@@ -85,20 +85,11 @@
 </table>
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
-
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash" />
-  
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=django,flask,react,bootstrap,tensorflow,pytorch" />
-  
-  <h3>Databases & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,aws,firebase,docker" />
-  
-  <h3>Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,selenium,arduino" />
+  <img src="https://camo.githubusercontent.com/4c4091599ca3680a00bd7d16572d8eed1c0a315a6759532bb41d6e46cd524fed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c646a616e676f2c666c61736b2c73656c656e69756d2c74656e736f72666c6f772c7673636f64652c6769746875622c6769742c6370702c7265646973" data-canonical-src="https://skillicons.dev/icons?i=python,django,flask,selenium,tensorflow,vscode,github,git,cpp,redis" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/2a8d34571a53b617230503650511113b5c585561969cbc8f09cad92437f150f5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e75782c6a732c72656163742c61726475696e6f2c6d6f6e676f64622c6d7973716c2c646f636b65722c626f6f7473747261702c68746d6c2c637373" data-canonical-src="https://skillicons.dev/icons?i=linux,js,react,arduino,mongodb,mysql,docker,bootstrap,html,css" style="max-width: 100%;">
 </div>
+
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
@@ -110,7 +101,7 @@
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShauryaDusht&theme=radical" alt="Profile Details" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShauryaDusht&theme=radical" alt="Profile Details" />
 </div>
 
 <div align="center">
