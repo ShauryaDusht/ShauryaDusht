@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Shaurya+Bisht!;Machine+Learning+Enthusiast;Full+Stack+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Shaurya+Bisht!" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ShauryaDusht&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <a href="https://github.com/ShauryaDusht?tab=followers">
-    <img src="https://img.shields.io/github/followers/ShauryaDusht?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
-  </a>
   <a href="https://github.com/ShauryaDusht?tab=stars">
     <img src="https://img.shields.io/github/stars/ShauryaDusht?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
   </a>
@@ -18,71 +15,16 @@
   <table border="0" style="border-collapse: collapse; width: 100%;">
     <tr>
       <td width="60%" align="left" valign="top">
-        <ul>
-          <li>🎓 B.Tech student at IIIT Surat, Electronics and Communication Engineering</li>
-          <li>💻 Passionate about Machine Learning, Automation, and Web Development</li>
-          <li>☁️ Currently exploring MLOps, cloud infrastructure, and system design</li>
-          <li>🛠️ Building projects that merge AI with practical, real-world applications</li>
-          <li>🤝 Open to collaborations, open-source contributions, and hackathons</li>
+        <ul style="font-size: 1.1em;">
+          <li> I'm an undergraduate at the IIIT Surat studying Electronics</li>
+          <li> Most of my experience is in full stack development, system design, and machine learning.</li>
+          <li> I'm actively contributing to open source projects.</li>
         </ul>
-      </td>
-      <td width="40%" align="center" valign="center">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="auto" alt="coding gif"/>
       </td>
     </tr>
   </table>
 </div>
 
-
-<h2 align="center">💡 Recent Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">CodeTogether</h3>
-      <div align="center">
-        <a href="https://github.com/ShauryaDusht/DevHeat-CodeColab" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repo Link"/>
-        </a>
-        <p>A collaborative code editor featuring room-based systems, code suggestions, and personalized recommendations based on user interests.</p>
-        <p><strong>Tech Stack:</strong> Django, WebSockets, JS </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">MeetInsights</h3>
-      <div align="center">
-        <a href="https://github.com/ShauryaDusht/MeetInsights" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repo Link"/>
-        </a>
-        <p>A Selenium-based automated assistant that attends Google Meet sessions, captures time-stamped captions, and generates AI-enhanced meeting insights.</p>
-        <p><strong>Tech Stack:</strong> Python, Selenium, OpenAI/Gemini API, NLP</p>
-      </div>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%">
-      <h3 align="center">Twitter Sentiment Analysis</h3>
-      <div align="center">
-        <a href="https://github.com/ShauryaDusht/selenium-twitter-sentiment-analysis" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repo Link"/>
-        </a>
-        <p>Used Selenium for web scraping tweets, then performed sentiment analysis using BERT and custom NLP models.</p>
-        <p><strong>Tech Stack:</strong> Python, Selenium, BERT, TensorFlow, NLP</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Animal Classification System</h3>
-      <div align="center">
-        <a href="https://github.com/ShauryaDusht/animal-classification-flask-app" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repo Link"/>
-        </a>
-        <p>A Flask-based image recognition system using ResNet to accurately classify 15 different animal species.</p>
-        <p><strong>Tech Stack:</strong> Python, Flask, ResNet, TensorFlow, Streamlit</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
 <div align="center">
@@ -126,7 +68,3 @@
   </a>
 </div>
 
-<div align="center">
-  <h3>Thanks for visiting! 😊</h3>
-  <p>Feel free to star ⭐ some repositories if you find them interesting!</p>
-</div>
