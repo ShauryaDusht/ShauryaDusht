@@ -16,9 +16,9 @@
     <tr>
       <td width="60%" align="left" valign="top">
         <ul style="font-size: 1.1em;">
-          <li> I'm an undergraduate at the IIIT Surat studying Electronics</li>
-          <li> Most of my experience is in full stack development, system design, and machine learning.</li>
-          <li> I'm actively contributing to open source projects.</li>
+          <li> I’m an undergraduate student at IIIT Surat, majoring in Electronics and Communication Engineering.
+          <li> My core experience lies in full-stack development, system design, and machine learning.</li>
+          <li> I’m also an active contributor to open-source projects.</li>
         </ul>
       </td>
     </tr>
@@ -46,6 +46,7 @@
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShauryaDusht&theme=radical" alt="Profile Details" />
 </div>
 
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShauryaDusht/ShauryaDusht/output/github-contribution-grid-snake-dark.svg" />
@@ -53,6 +54,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/ShauryaDusht/ShauryaDusht/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+-->
 
 <h2 align="center">📫 Connect with Me</h2>
 
