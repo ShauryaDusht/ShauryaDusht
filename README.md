@@ -39,7 +39,9 @@
 <div align="center">
   <!-- LOC-STATS:START -->
   <!-- LOC-STATS:END -->
-  <img src="https://raw.githubusercontent.com/ShauryaDusht/ShauryaDusht/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShauryaDusht&theme=radical" alt="Profile Details" />
+
 </div>
 
 <!--

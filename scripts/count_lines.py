@@ -35,12 +35,12 @@ def get_headers():
     }
 
 def get_all_repos():
-    """Get all non-forked repositories for the user"""
+    """Get all public non-forked repositories for the user"""
     repos = []
     page = 1
     
     while True:
-        url = f'https://api.github.com/users/{USERNAME}/repos?per_page=100&page={page}'
+        url = f'https://api.github.com/users/{USERNAME}/repos?per_page=100&page={page}&type=public'
         response = requests.get(url, headers=get_headers())
         
         if response.status_code != 200:
@@ -51,11 +51,11 @@ def get_all_repos():
         if not data:
             break
         
-        # Filter out forked repos
-        repos.extend([repo for repo in data if not repo.get('fork', False)])
+        # Filter out forked repos and ensure they are public
+        repos.extend([repo for repo in data if not repo.get('fork', False) and not repo.get('private', False)])
         page += 1
     
-    print(f"Found {len(repos)} non-forked repositories")
+    print(f"Found {len(repos)} public non-forked repositories")
     return repos
 
 def count_lines_in_content(content):
@@ -209,11 +209,10 @@ def update_readme(stats_markdown, visual_stats):
     start_marker = '<!-- LOC-STATS:START -->'
     end_marker = '<!-- LOC-STATS:END -->'
     
-    # Create new stats section
-    timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
+    # Create new stats section - ONLY visual stats, no table
+    timestamp = datetime.now().strftime('%Y-%m-%d')
     new_section = f"{start_marker}\n\n"
-    new_section += f"**Last Updated:** {timestamp}\n\n"
-    new_section += stats_markdown + "\n\n"
+    new_section += f"**Last Updated:** {timestamp}\n"
     new_section += visual_stats + "\n"
     new_section += end_marker
     
