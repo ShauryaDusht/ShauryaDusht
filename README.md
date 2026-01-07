@@ -38,7 +38,17 @@
  
 <div align="center">
   <!-- LOC-STATS:START -->
-  <!-- LOC-STATS:END -->
+
+**Last Updated:** 2026-01-07
+
+```text
+Python          ███████████████████████████████████████████           344,463 lines ( 87.6%)
+JavaScript      █████                                                  45,574 lines ( 11.6%)
+Go                                                                      2,577 lines (  0.7%)
+Java                                                                      814 lines (  0.2%)
+```
+
+<!-- LOC-STATS:END -->
 
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShauryaDusht&theme=radical" alt="Profile Details" />
 

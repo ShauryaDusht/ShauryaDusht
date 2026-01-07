@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-01-07T14:09:45.216092",
+  "total_lines": 393428,
+  "languages": {
+    "Python": 344463,
+    "JavaScript": 45574,
+    "Go": 2577,
+    "Java": 814
+  },
+  "repositories": {
+    "animal-classification-flask-app": {
+      "Python": 141
+    },
+    "CodeTogether": {
+      "Python": 628,
+      "JavaScript": 252
+    },
+    "django-rest-framework": {
+      "Python": 709
+    },
+    "go-social-media-app": {
+      "Go": 2295,
+      "Python": 7,
+      "JavaScript": 1325
+    },
+    "hospital-management-backend": {
+      "Java": 593
+    },
+    "loadbalancer-go": {
+      "Go": 282
+    },
+    "machine-learning-basics": {},
+    "MeetInsights": {
+      "Python": 610
+    },
+    "news-summarizer": {
+      "Python": 482
+    },
+    "photo-gallery-app-django": {
+      "Python": 340928,
+      "JavaScript": 43997
+    },
+    "selenium-twitter-sentiment-analysis": {
+      "Python": 742
+    },
+    "ShauryaDusht": {
+      "Python": 216
+    },
+    "ToDo-List": {
+      "Java": 221
+    }
+  }
+}
