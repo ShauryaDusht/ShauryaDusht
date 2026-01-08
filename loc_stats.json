@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-01-07T14:09:45.216092",
-  "total_lines": 393428,
+  "timestamp": "2026-01-08T01:07:59.415224",
+  "total_lines": 392237,
   "languages": {
-    "Python": 344463,
+    "Python": 343272,
     "JavaScript": 45574,
     "Go": 2577,
     "Java": 814
@@ -15,9 +15,6 @@
       "Python": 628,
       "JavaScript": 252
     },
-    "django-rest-framework": {
-      "Python": 709
-    },
     "go-social-media-app": {
       "Go": 2295,
       "Python": 7,
@@ -29,12 +26,8 @@
     "loadbalancer-go": {
       "Go": 282
     },
-    "machine-learning-basics": {},
     "MeetInsights": {
       "Python": 610
-    },
-    "news-summarizer": {
-      "Python": 482
     },
     "photo-gallery-app-django": {
       "Python": 340928,
