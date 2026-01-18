@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-01-18T01:13:59.972385",
-  "total_lines": 392700,
+  "timestamp": "2026-01-18T13:56:17.150334",
+  "total_lines": 392864,
   "languages": {
     "Python": 343272,
     "JavaScript": 45574,
     "Go": 2577,
-    "Java": 1277
+    "Java": 1441
   },
   "repositories": {
     "animal-classification-flask-app": {
@@ -21,7 +21,7 @@
       "JavaScript": 1325
     },
     "hospital-management-backend": {
-      "Java": 1056
+      "Java": 1220
     },
     "loadbalancer-go": {
       "Go": 282

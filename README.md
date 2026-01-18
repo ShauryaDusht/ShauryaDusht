@@ -45,7 +45,7 @@
 Python          ███████████████████████████████████████████           343,272 lines ( 87.4%)
 JavaScript      █████                                                  45,574 lines ( 11.6%)
 Go                                                                      2,577 lines (  0.7%)
-Java                                                                    1,277 lines (  0.3%)
+Java                                                                    1,441 lines (  0.4%)
 ```
 
 <!-- LOC-STATS:END -->
