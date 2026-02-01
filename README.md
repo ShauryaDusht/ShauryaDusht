@@ -39,13 +39,13 @@
 <div align="center">
   <!-- LOC-STATS:START -->
 
-**Last Updated:** 2026-01-31
+**Last Updated:** 2026-02-01
 
 ```text
-Python          ███████████████████████████████████████████           343,272 lines ( 87.2%)
+Python          ███████████████████████████████████████████           343,272 lines ( 87.1%)
 JavaScript      █████                                                  45,574 lines ( 11.6%)
+Java                                                                    2,602 lines (  0.7%)
 Go                                                                      2,577 lines (  0.7%)
-Java                                                                    2,240 lines (  0.6%)
 ```
 
 <!-- LOC-STATS:END -->
