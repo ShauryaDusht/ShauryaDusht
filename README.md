@@ -16,9 +16,9 @@
     <tr>
       <td width="60%" align="left" valign="top">
         <ul style="font-size: 1.1em;">
-          <li> I'm an undergraduate student at IIIT Surat, majoring in Electronics and Communication Engineering.
-          <li> My core experience lies in full-stack development, system design, and machine learning.</li>
-          <li> I'm also an active contributor to open-source projects seleniumHQ, scikit-learn and pyodide.</li>
+          <li> Undergraduate at IIIT Surat (ECE), focused on backend and scalable systems.</li>
+          <li> Proficient in Django and FastAPI for building production-ready backend services.</li>
+          <li> Contributor to open-source projects including Selenium, scikit-learn, and Pyodide.</li>
         </ul>
       </td>
     </tr>
