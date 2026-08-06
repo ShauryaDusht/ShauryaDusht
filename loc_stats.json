@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-08-05T01:53:44.306440",
-  "total_lines": 400131,
+  "timestamp": "2026-08-06T01:54:06.470221",
+  "total_lines": 401466,
   "languages": {
-    "Python": 347455,
+    "Python": 348195,
     "JavaScript": 45574,
     "Go": 2577,
-    "Java": 4525
+    "Java": 4525,
+    "TypeScript": 595
   },
   "repositories": {
     "animal-classification-flask-app": {
@@ -25,6 +26,10 @@
     },
     "loadbalancer-go": {
       "Go": 282
+    },
+    "meeting-planner": {
+      "Python": 740,
+      "TypeScript": 595
     },
     "MeetInsights": {
       "Python": 610
