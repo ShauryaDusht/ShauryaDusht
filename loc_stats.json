@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-15T02:37:05.092656",
-  "total_lines": 400131,
+  "timestamp": "2026-10-16T02:25:57.020646",
+  "total_lines": 454378,
   "languages": {
-    "Python": 347455,
-    "JavaScript": 45574,
+    "Python": 379893,
+    "JavaScript": 67383,
     "Go": 2577,
     "Java": 4525
   },
@@ -25,6 +25,10 @@
     },
     "loadbalancer-go": {
       "Go": 282
+    },
+    "management-system": {
+      "Python": 32438,
+      "JavaScript": 21809
     },
     "MeetInsights": {
       "Python": 610
